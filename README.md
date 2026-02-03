@@ -7,14 +7,21 @@ This document describes the schema for all `all.parquet` files in the `data/` di
 If you use this data, please cite:
 
 ```bibtex
-@misc{weissburg2025llmsbiasedteachersevaluating,
-      title={LLMs are Biased Teachers: Evaluating LLM Bias in Personalized Education},
-      author={Iain Weissburg and Sathvika Anand and Sharon Levy and Haewon Jeong},
-      year={2025},
-      eprint={2410.14012},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2410.14012},
+@inproceedings{weissburg-etal-2025-llms,
+    title = "{LLM}s are Biased Teachers: Evaluating {LLM} Bias in Personalized Education",
+    author = "Weissburg, Iain  and
+      Anand, Sathvika  and
+      Levy, Sharon  and
+      Jeong, Haewon",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2025",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-naacl.314/",
+    doi = "10.18653/v1/2025.findings-naacl.314",
+    pages = "5650--5698",
+    ISBN = "979-8-89176-195-7",
 }
 ```
 
